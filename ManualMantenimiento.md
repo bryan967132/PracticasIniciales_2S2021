@@ -11,15 +11,15 @@
 
 ![logo](Imagenes/logo3.png)
 
-|Integrantes|Carnet|
-|-|-|
-|Santiago Gilberto Rivadeneira Ruano|201313722|
-|Wilfred Stewart Perez Solórzano|201408419|
-|Diego Estuardo López Sequén|201901259|
-|Danny Hugo Bryan Tejaxún Pichiyá|201908355|
-|Denny Mabreth Paz Gameros|201709287|
-|Percy Juventino Duarte Gálvez|201709149|
-|André Joaquín Ortega De Paz|201900597|
+|Integrantes||||Carnet|
+|-|-|-|-|-|
+|Santiago Gilberto Rivadeneira Ruano||||201313722|
+|Wilfred Stewart Perez Solórzano||||201408419|
+|Diego Estuardo López Sequén||||201901259|
+|Danny Hugo Bryan Tejaxún Pichiyá||||201908355|
+|Denny Mabreth Paz Gameros||||201709287|
+|Percy Juventino Duarte Gálvez||||201709149|
+|André Joaquín Ortega De Paz||||201900597|
 
 <br>
 
@@ -58,23 +58,24 @@ ___
 
 ### Desmantelación:
 1. Remover los tornillos para retirar la carcaza.<br>
-![pasos](https://th.bing.com/th/id/R.3c2684b58a10935a18475c42c2b1181d?rik=taPerkGs%2bhekGQ&riu=http%3a%2f%2fwww.notegear.com%2fcontent%2fupfile%2fDSC00022_9.JPG&ehk=Hc7Yo04R3J9Mk3v9l6T9P5FlSVOsKJ1SxepcF9GgQQU%3d&risl=&pid=ImgRaw&r=0)
+![pasos](Imagenes/1.png)
 
 2. Remover el adaptador de red y conector de pantalla.<br>
-![pasos](https://images-na.ssl-images-amazon.com/images/I/51sc65sBXoL._SY300_QL70_.jpg)
+![pasos](Imagenes/2.png)
 
 3. Retirar los tornillos correspondientes a la batería y disco duro, para remover dichos componentes.<br>
-![pasos](https://m.media-amazon.com/images/I/71nK57McdyL._AC_SS450_.jpg)
-![pasos](https://m.media-amazon.com/images/I/61iFn3i8UsL._AC_SX466_.jpg)
+![pasos](Imagenes/3.png)
+![pasos](Imagenes/4.png)
 
 4. Retirar los tornillos situados en la placa base para llegar al teclado.<br>
-![pasos](https://supportkb.dell.com/img/ka02R000000i6ONQAY/ka02R000000i6ONQAY_es_14.jpeg)
-![pasos](https://supportkb.dell.com/img/ka02R000000i6ONQAY/ka02R000000i6ONQAY_es_23.jpeg)
+![pasos](Imagenes/5.png)
+![pasos](Imagenes/6.png)
 ___
 ### Limpieza:
 5. Limpiar el polvo con la brocha en zonas en las que hay exceso de polvo.
 
-6. Limpiar la carcaza.<br>![pasos](https://supportkb.dell.com/img/ka02R000000i6ONQAY/ka02R000000i6ONQAY_es_15.jpeg)
+6. Limpiar la carcaza.<br>
+    ![pasos](Imagenes/7.png)
 
     1. Limpiar con el paño de microfibra y espuma las zonas más accesibles.
 
@@ -82,32 +83,32 @@ ___
 
 7. Retirar ventiladores y tarjeta madre.
     1. Limpiar los ventiladores con el limpiacontactos, la brocha y el paño de microfibra.<br>
-    ![pasos](https://cdn.shopify.com/s/files/1/1638/9267/products/RU3137_1_large.jpg?v=1551557751)
+    ![pasos](Imagenes/8.png)
 
     2. Limpiar las zonas empolvadas con limpiador de superficies o aire comprimido si fuera necesario.<br>
-    ![pasos](https://i.ebayimg.com/thumbs/images/g/KIQAAOSwCuBgNUZb/s-l300.jpg)
+    ![pasos](Imagenes/9.png)
 
 8. Retirar los componentes de la tarjeta madre.<br>
     **Nota: Al finalizar el proceso es necesario aplicar pasta térmica de nuevo en el procesador y disipador de calor.**
     1. Retirar el disipador de calor.<br>
-    ![pasos](https://supportkb.dell.com/img/ka02R000000i6ONQAY/ka02R000000i6ONQAY_es_13.jpeg)
-    ![pasos](https://ip1.i.lithium.com/f249119cfaaa4b1c730b8bbf55d4425b91737d5c/68747470733a2f2f69322e77702e636f6d2f6c6170746f706d656469612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30332f494d475f32303137303331355f3138333931352e6a7067)
+    ![pasos](Imagenes/10.png)
+    ![pasos](Imagenes/11.png)
     
     2. Con el limpiador de superficies, remover la pasta térmica del procesador y del disipador de calor.
     
     3. Retirar la memoria RAM para poder limpiar los pines del *socket*. Los pines son limpiados con aire comprimido.<br>
-    ![pasos](https://supportkb.dell.com/img/ka02R000000i6ONQAY/ka02R000000i6ONQAY_es_4.jpeg)
-    ![pasos](https://images.idgesg.net/images/article/2018/02/acer_aspire_e15_ddr4_so_dimm_notch-100751018-large.jpg)
+    ![pasos](Imagenes/12.png)
+    ![pasos](Imagenes/13.png)
 
     4. Limpiar las salidas de calor del disipador para que no se obstruyan con polvo.
 
 9. Limpiar con aire comprimido las entradas del disco duro.<br>
-![pasos](https://images.pcel.com/mp/Hardware-Discos-Duros-Internos-Toshiba-MQ01ABD100-97188-51cdb020cb69e.jpg)
+![pasos](Imagenes/14.png)
 
 10. Limpiar la batería con el paño de microfibra.
 
 11. Limpiar la carcaza que contiene el teclado con la brocha y un trapo. Seguidamente se hace lo mismo con la parte inferior de la carcaza.<br>
-![pasos](https://http2.mlstatic.com/D_NQ_NP_707340-MLM31475686853_072019-O.jpg)
+![pasos](Imagenes/15.png)
 
 12. Limpiar con el limpiacontactos las entradas del adaptador de red y del conector de la pantalla.<br>
 ___
