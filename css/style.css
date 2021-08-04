@@ -1,0 +1,7 @@
+img[alt = logo] {
+    width: 200px;
+}
+img[alt = pasos] {
+    height: 160px;
+    border-radius: 10px;
+}
